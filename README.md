@@ -47,3 +47,4 @@ const firebaseConfig = {
 I'm a software engineering student with a genuine interest in how the web can go beyond flat interfaces. This project was a way to apply real architectural discipline keeping the rendering engine completely decoupled from the Angular layer while building something that's actually fun to explore. It's the kind of project you keep adding to because you're curious what happens next.
 
 ---
+<img width="1847" height="941" alt="image" src="https://github.com/user-attachments/assets/86d5dcd0-afe7-4651-bd00-b803243cab6c" />
